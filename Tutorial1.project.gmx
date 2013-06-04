@@ -18,12 +18,15 @@
     <object>objects\obj_wall</object>
     <object>objects\obj_clown</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_main</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
   <TutorialState>
     <IsTutorial>-1</IsTutorial>
     <TutorialName>C:\Users\remillet\AppData\Roaming\GameMaker-Studio\Tutorials\YoYo Games 0001 - My First Game</TutorialName>
-    <TutorialPage>9</TutorialPage>
+    <TutorialPage>10</TutorialPage>
   </TutorialState>
 </assets>
